@@ -1,6 +1,6 @@
 # uni player
 
-**Home KTV for your Mac.** Designed for macOS and made for Burmese songs: your own songs and YouTube, lyrics in time, AI vocal removal, a phone remote and TV mode. Website: [uni-player.pages.dev](https://uni-player.pages.dev)
+**Home KTV for your Mac.** Designed for macOS and made for Burmese songs: your own songs and YouTube, lyrics in time, AI vocal removal, a phone remote and TV mode. Website: [uniaiplayer.com](https://uniaiplayer.com)
 
 **[⬇ Download the latest version](https://github.com/unilone/uni-player/releases/latest)** — the `.dmg` file under *Assets*.
 
