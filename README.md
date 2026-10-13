@@ -1,6 +1,6 @@
 # uni player
 
-Karaoke for Mac, made for Burmese songs: your own songs and YouTube, lyrics in time, AI vocal removal, a phone remote and TV mode.
+**Home KTV for your Mac.** Designed for macOS and made for Burmese songs: your own songs and YouTube, lyrics in time, AI vocal removal, a phone remote and TV mode. Website: [uni-player.pages.dev](https://uni-player.pages.dev)
 
 **[⬇ Download the latest version](https://github.com/unilone/uni-player/releases/latest)** — the `.dmg` file under *Assets*.
 
@@ -27,7 +27,7 @@ Free: play your songs and YouTube, lyrics and the phone remote. **Pro** adds AI 
 
 # uni player (မြန်မာ)
 
-Mac အတွက် karaoke app ဖြစ်ပါတယ် — မြန်မာသီချင်းတွေအတွက် လုပ်ထားပါတယ်။ ကိုယ့်သီချင်းတွေနဲ့ YouTube၊ အချိန်ကိုက် စာသား၊ AI နဲ့ အဆိုသံ ဖယ်ခြင်း၊ ဖုန်း remote နဲ့ TV mode ပါပါတယ်။
+**Mac အတွက် အိမ်သုံး KTV ပါ။** macOS အတွက် လုပ်ထားပြီး မြန်မာသီချင်းတွေအတွက် ရည်ရွယ်ပါတယ်။ ကိုယ့်သီချင်းတွေနဲ့ YouTube၊ အချိန်ကိုက် စာသား၊ AI နဲ့ အဆိုသံ ဖယ်ခြင်း၊ ဖုန်း remote နဲ့ TV mode ပါပါတယ်။
 
 **[⬇ နောက်ဆုံး version ကို download လုပ်ရန်](https://github.com/unilone/uni-player/releases/latest)** — *Assets* အောက်က `.dmg` ဖိုင်။
 
